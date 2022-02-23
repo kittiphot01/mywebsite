@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("TA16BIT-Regular.ttf");
+        src: url("MiPancakeBold.ttf");
       }
       @font-face{
         font-family: "MyFont2";
@@ -19,7 +19,7 @@
     </style>
   </head>
   <body>
-    <h1 id="font1">วรรณวิสา นิตยพันธ์ ม.4/12 เลขที่ 24 เลขประจำตัว 57070</h1>
-    <h1 id="font2">วรรณวิสา นิตยพันธ์ ม.4/12 เลขที่ 24 เลขประจำตัว 57070</h1>
+    <h1 id="font1">กิตติพศ พั้วพวง ม.4/12 เลขที่ 3 เลขประจำตัว 57012</h1>
+    <h1 id="font2">กิตติพศ พั้วพวง ม.4/12 เลขที่ 3 เลขประจำตัว 57012</h1>
   </body>
 </html>
