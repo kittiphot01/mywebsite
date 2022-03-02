@@ -8,7 +8,7 @@
         <th>ลำดับ</th>
         <th>ชื่อ</th>
         <th>รูปภาพ</th>
-        <th>Instagram/FB</th>
+        <th>IG/FB</th>
       </tr>
       <tr>
         <td>1</td>
